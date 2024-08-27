@@ -45,6 +45,9 @@ The built files will be in the `dist` directory.
 - Click or tap to fire the gem bullet
 - Aim to match three or more gems of the same color
 
+## Ref. `
+https://www.emanueleferonato.com/2024/07/19/build-a-html5-game-like-zuma-with-phaser-and-typescript-step-2-firing-a-gem-and-adding-it-to-the-chain/
+
 ## License
 
 [MIT License](LICENSE)

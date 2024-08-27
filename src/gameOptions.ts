@@ -1,6 +1,6 @@
 
 
-export const gameOptions: any = {
+export const GameOptions: any = {
   gameSize: {
     width: 1920,
     height: 1080,

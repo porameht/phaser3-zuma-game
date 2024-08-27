@@ -2,7 +2,7 @@ export class PreloadAssets extends Phaser.Scene {
 
   constructor() {
     super({
-      key:"PreloadAssets"
+      key : 'PreloadAssets'
     })
   }
 
